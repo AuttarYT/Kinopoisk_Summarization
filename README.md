@@ -172,7 +172,7 @@ bert_score = bert_scorer.score([prediction], [reference])
 - Knowledge distillation with Qwen/Qwen2.5-1.5B-Instruct
 - Hugging Face Transformers library
 
-- 🚀 How to Reproduce
+## 🚀 How to Reproduce
 
 ```python
 git clone https://github.com/lastya24/ru-sci-llm-uncertainty-in-classification.git
