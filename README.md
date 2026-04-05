@@ -171,3 +171,11 @@ bert_score = bert_scorer.score([prediction], [reference])
 - Original Kinopoisk reviews dataset: [Glepka/kinopoisk_classification](https://huggingface.co/datasets/Glepka/kinopoisk_classification)
 - Knowledge distillation with Qwen/Qwen2.5-1.5B-Instruct
 - Hugging Face Transformers library
+
+- 🚀 How to Reproduce
+
+```python
+git clone https://github.com/lastya24/ru-sci-llm-uncertainty-in-classification.git
+cd ru-sci-llm-uncertainty-in-classification
+pip install -r requirements.txt
+```
