@@ -171,4 +171,3 @@ bert_score = bert_scorer.score([prediction], [reference])
 - Original Kinopoisk reviews dataset: [Glepka/kinopoisk_classification](https://huggingface.co/datasets/Glepka/kinopoisk_classification)
 - Knowledge distillation with Qwen/Qwen2.5-1.5B-Instruct
 - Hugging Face Transformers library
-```
