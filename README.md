@@ -1,6 +1,6 @@
 # ru-review-summarization
 
-**authors:** Arefiev T., Konyukhova V., Egorova A.
+**Authors:** Arefiev T., Konyukhova V., Egorova A.
 
 Generative summarization of Russian movie reviews using knowledge distillation from LLM and fine-tuning of compact encoder-decoder models.
 
@@ -162,7 +162,7 @@ bert_score = bert_scorer.score([prediction], [reference])
 
 - **Dataset:** https://huggingface.co/datasets/Auttar/KinopoiskReviewsSummarization
 - **Models:** https://huggingface.co/Auttar/RuT5SentimentSummarization, https://huggingface.co/Auttar/kinopoisk-pegasus, https://huggingface.co/Auttar/kinopoisk-rubart
-- **GitHub:** https://github.com/Auttar/ru-review-summarization
+- **GitHub:** [https://github.com/Auttar/ru-review-summarization](https://github.com/AuttarYT/Kinopoisk_Summarization/tree/main)
 
 ---
 
