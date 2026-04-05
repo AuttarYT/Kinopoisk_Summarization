@@ -8,7 +8,7 @@ We implement and compare three seq2seq architectures for abstractive summarizati
 
 - **ruT5-base** – universal text-to-text model, optimal balance of quality and speed
 - **ruBART-large** – denoising autoencoder, strong contextual understanding
-- PEGASUS** – specialized for summarization, but English version failed on Russian
+- **PEGASUS** – specialized for summarization, but English version failed on Russian
 
 Experiments are conducted on **Kinopoisk reviews** dataset with 20,450 train/validation/test pairs.
 
