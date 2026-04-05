@@ -1,6 +1,3 @@
-Конечно! Вот README в вашем стиле:
-
-```markdown
 # ru-review-summarization
 
 **authors:** Arefiev T., [ваши имена]
