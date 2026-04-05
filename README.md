@@ -54,18 +54,18 @@ Simple extractive summarization:
 
 **Pros:** Fast, interpretable. **Cons:** "Ragged" summaries, no paraphrasing.
 
-### 2. ruT5-base (Fine-tuned)
+### 2. sberbank-ai/ruT5-base (Fine-tuned)
 Encoder-decoder with unified "text-to-text" approach:
 - No prefix required
 - Max input length: 512 tokens
 - Max output length: 128 tokens
 - Learning rate: 5e-5, batch size: 4, epochs: 3
 
-### 3. ruBART-large (Fine-tuned)
+### 3. sn4kebyt3/ru-bart-large (Fine-tuned)
 Denoising autoencoder with bidirectional context:
 - Same training parameters as T5
 
-### 3. ruBART-large (Fine-tuned)
+### 3. google/pegasus-x-base (Fine-tuned)
 Encoder-decoder with unified "text-to-text" approach:
 - Same training parameters as T5
 
