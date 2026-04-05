@@ -36,8 +36,8 @@ Experiments are conducted on **Kinopoisk reviews** dataset with 20,450 train/val
 
 ## 🧠 Models
 
-**Qwen/Qwen2.5-1.5B-Instruct** – used for generating gold summaries (knowledge distillation).  
-**ruT5-base** (220M params) – model for fine-tuning on the synthesized dataset.
+- **Qwen/Qwen2.5-1.5B-Instruct** – used for generating gold summaries (knowledge distillation).  
+- **ruT5-base** (220M params) – model for fine-tuning on the synthesized dataset.
 - **ruBART-large** (406M params) – model for fine-tuning on the synthesized dataset.
 - **google/pegasus-x-base** – model for fine-tuning on the synthesized dataset. English model, failed on Russian (output garbage)
 
